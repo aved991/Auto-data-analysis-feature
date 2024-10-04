@@ -10,7 +10,14 @@ Type of file format the program will be able to detect: csv, sql dump, excel, ts
 
 
 Workflow of this project:
--Data Type detection: numerical, text or complex data types etc.
--Exploratory Data Analysis: Clustering, Dimensionality Reduction, Anomaly Detection (algorithms used in EDA process) 
--(required if any)
+-Data Format detection: csv, tsv, xml, xlsx, xls, txt, bson, sql, sqlite
+-Reading & displaying the data contents 
+-Performing exploratory Data Analysis
+-Checking whether data preprocessing is required or applicable
+      -if required then continue
+      -if unapplicable then ignore and skip
+-Data preprocessing
+-Application of Unsupervised Machine Learning algorithms: 
+      -checking whether algorithms are applicable
+      -displaying the output if algorithms are applicable
 -Generic feedback: Descriptions & visualizations
