@@ -1,5 +1,5 @@
 # Auto-data-analysis-feature
-Data sets used:- students_data.csv, databases.sqlite
+Data sets used for checking the code/algorithm : bjson files, students_data.csv, databases.sqlite
 
 
 A feature or a tool that can be used written in python code 
