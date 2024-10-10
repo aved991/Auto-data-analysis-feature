@@ -25,3 +25,4 @@ Workflow of this project:
 
 Features to be added:
 -Identification, reading or conversion(into CSV) of XML files
+-Identification, reading or conversion(into CSV) of JSON files
