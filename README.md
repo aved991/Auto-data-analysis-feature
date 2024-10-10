@@ -10,7 +10,7 @@ Type of file format the program will be able to detect: csv, sql dump, excel, ts
 
 
 Workflow of this project:
--Data Format detection: csv, tsv, xml, xlsx, xls, txt, bson, sql, sqlite
+-Data Format detection: csv, tsv, xlsx, xls, txt, bson, sql, sqlite
 -Reading & displaying the data contents 
 -Performing exploratory Data Analysis
 -Checking whether data preprocessing is required or applicable
@@ -21,3 +21,7 @@ Workflow of this project:
       -checking whether algorithms are applicable
       -displaying the output if algorithms are applicable
 -Generic feedback: Descriptions & visualizations
+
+
+Features to be added:
+-Identification, reading or conversion(into CSV) of XML files
